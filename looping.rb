@@ -1,6 +1,5 @@
 def looping(looping)
-	puts loop 
+	puts loop
 end
 
-looping(Wingardium Leviosa")
-
+looping("Wingardium Leviosa")
