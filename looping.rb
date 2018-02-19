@@ -1,5 +1,6 @@
 def looping(loop)
-	puts loop
+	loop do
+    puts loop
 end
 
 looping("Wingardium Leviosa")
